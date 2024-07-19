@@ -9,8 +9,3 @@ test11.java: Prints multiples of 4 from 4 up to 40.
 test12.java: Prints multiples of 10 from 10 up to 100.
 test13.java: Prints numbers from 1 to 5 and then back down from 4 to 1.
 2. While Loop Examples
-testWhile.java: (Add your description here)
-testWhile2.java: (Add your description here)
-3. Do-While Loop Examples
-testDoWhile.java: (Add your description here)
-testDoWhile2.java: (Add your description here)
