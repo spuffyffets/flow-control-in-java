@@ -1,10 +1,10 @@
+package loop;
+
 public class test13 {
-    public static void main(String[] args) {
-        for (int i = 1; i <= 5; i++) {
-            System.out.print(i + " ");
-        }
-        for (int i = 4; i >= 1; i--) {
-            System.out.print(i + " ");
-        }
-    }
+
+	public static void main(String[] args) {
+		long a;
+		for(a=2;a<=300000000;a=a*a) 
+		System.out.println(a);
+	}
 }
